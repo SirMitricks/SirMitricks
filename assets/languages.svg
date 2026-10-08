@@ -13,17 +13,17 @@
 <line class="ln" x1="40" y1="64" x2="860" y2="64"/>
 <clipPath id="r"><rect x="40" y="88" width="820" height="12" rx="6"/></clipPath>
 <g clip-path="url(#r)">
-<rect class="c0" x="40.00" y="88" width="278.89" height="12"/>
-<rect class="c1" x="320.89" y="88" width="169.64" height="12"/>
-<rect class="c2" x="492.53" y="88" width="128.98" height="12"/>
-<rect class="c3" x="623.51" y="88" width="128.78" height="12"/>
-<rect class="c4" x="754.29" y="88" width="59.40" height="12"/>
-<rect class="c5" x="815.69" y="88" width="42.31" height="12"/>
+<rect class="c0" x="40.00" y="88" width="278.84" height="12"/>
+<rect class="c1" x="320.84" y="88" width="169.61" height="12"/>
+<rect class="c2" x="492.45" y="88" width="128.95" height="12"/>
+<rect class="c3" x="623.40" y="88" width="128.75" height="12"/>
+<rect class="c4" x="754.15" y="88" width="59.39" height="12"/>
+<rect class="c5" x="815.54" y="88" width="42.46" height="12"/>
 </g>
 <rect class="c0" x="40" y="143" width="12" height="12" rx="3"/>
 <text class="serif ink" x="66" y="155" font-size="24">SCSS</text>
 <line class="dot" x1="270" y1="150" x2="770" y2="150"/>
-<text class="mono ink" x="860" y="154" font-size="16" text-anchor="end">34.3%</text>
+<text class="mono ink" x="860" y="154" font-size="16" text-anchor="end">34.2%</text>
 <rect class="c1" x="40" y="187" width="12" height="12" rx="3"/>
 <text class="serif ink" x="66" y="199" font-size="24">JavaScript</text>
 <line class="dot" x1="270" y1="194" x2="770" y2="194"/>
