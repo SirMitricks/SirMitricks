@@ -13,35 +13,35 @@
 <line class="ln" x1="40" y1="64" x2="860" y2="64"/>
 <clipPath id="r"><rect x="40" y="88" width="820" height="12" rx="6"/></clipPath>
 <g clip-path="url(#r)">
-<rect class="c0" x="40.00" y="88" width="278.84" height="12"/>
-<rect class="c1" x="320.84" y="88" width="169.61" height="12"/>
-<rect class="c2" x="492.45" y="88" width="128.95" height="12"/>
-<rect class="c3" x="623.40" y="88" width="128.75" height="12"/>
-<rect class="c4" x="754.15" y="88" width="59.39" height="12"/>
-<rect class="c5" x="815.54" y="88" width="42.46" height="12"/>
+<rect class="c0" x="40.00" y="88" width="308.93" height="12"/>
+<rect class="c1" x="350.93" y="88" width="148.36" height="12"/>
+<rect class="c2" x="501.29" y="88" width="147.52" height="12"/>
+<rect class="c3" x="650.82" y="88" width="90.85" height="12"/>
+<rect class="c4" x="743.67" y="88" width="61.49" height="12"/>
+<rect class="c5" x="807.16" y="88" width="50.84" height="12"/>
 </g>
 <rect class="c0" x="40" y="143" width="12" height="12" rx="3"/>
 <text class="serif ink" x="66" y="155" font-size="24">SCSS</text>
 <line class="dot" x1="270" y1="150" x2="770" y2="150"/>
-<text class="mono ink" x="860" y="154" font-size="16" text-anchor="end">34.2%</text>
+<text class="mono ink" x="860" y="154" font-size="16" text-anchor="end">37.9%</text>
 <rect class="c1" x="40" y="187" width="12" height="12" rx="3"/>
 <text class="serif ink" x="66" y="199" font-size="24">JavaScript</text>
 <line class="dot" x1="270" y1="194" x2="770" y2="194"/>
-<text class="mono ink" x="860" y="198" font-size="16" text-anchor="end">20.9%</text>
+<text class="mono ink" x="860" y="198" font-size="16" text-anchor="end">18.3%</text>
 <rect class="c2" x="40" y="231" width="12" height="12" rx="3"/>
-<text class="serif ink" x="66" y="243" font-size="24">HTML</text>
+<text class="serif ink" x="66" y="243" font-size="24">CSS</text>
 <line class="dot" x1="270" y1="238" x2="770" y2="238"/>
-<text class="mono ink" x="860" y="242" font-size="16" text-anchor="end">16.0%</text>
+<text class="mono ink" x="860" y="242" font-size="16" text-anchor="end">18.2%</text>
 <rect class="c3" x="40" y="275" width="12" height="12" rx="3"/>
-<text class="serif ink" x="66" y="287" font-size="24">CSS</text>
+<text class="serif ink" x="66" y="287" font-size="24">HTML</text>
 <line class="dot" x1="270" y1="282" x2="770" y2="282"/>
-<text class="mono ink" x="860" y="286" font-size="16" text-anchor="end">15.9%</text>
+<text class="mono ink" x="860" y="286" font-size="16" text-anchor="end">11.3%</text>
 <rect class="c4" x="40" y="319" width="12" height="12" rx="3"/>
 <text class="serif ink" x="66" y="331" font-size="24">PHP</text>
 <line class="dot" x1="270" y1="326" x2="770" y2="326"/>
-<text class="mono ink" x="860" y="330" font-size="16" text-anchor="end">7.5%</text>
+<text class="mono ink" x="860" y="330" font-size="16" text-anchor="end">7.7%</text>
 <rect class="c5" x="40" y="363" width="12" height="12" rx="3"/>
 <text class="serif ink" x="66" y="375" font-size="24">Другое</text>
 <line class="dot" x1="270" y1="370" x2="770" y2="370"/>
-<text class="mono ink" x="860" y="374" font-size="16" text-anchor="end">5.4%</text>
+<text class="mono ink" x="860" y="374" font-size="16" text-anchor="end">6.4%</text>
 </svg>
