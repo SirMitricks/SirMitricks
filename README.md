@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="assets/stack.svg" width="100%" alt="Стек">
+<img src="assets/stack.svg" width="100%" alt="Стек: React, TypeScript, SCSS Modules, Vite; Node.js, Express, node-pg; PostgreSQL; Electron; HTML, CSS, JavaScript">
 
 <br>
 
@@ -23,10 +23,5 @@
 <sub>React · TypeScript · Express · PostgreSQL · SCSS Modules</sub>
 
 <br>
-
-<!-- Хочешь добавить контакты — раскомментируй и подставь свои:
-### 04 — Связь
-[Telegram](https://t.me/ТВОЙ_НИК) · [Email](mailto:you@example.com)
--->
 
 <img src="assets/footer.svg" width="100%" alt="">

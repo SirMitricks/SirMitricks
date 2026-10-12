@@ -6,24 +6,38 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['.github/scripts/**']
+    paths:
+      - '.github/scripts/**'
+      - '.github/workflows/languages.yml'
 
 permissions:
   contents: write
 
+concurrency:
+  group: languages
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
       - run: node .github/scripts/languages.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run: |
+      - name: Commit changes
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/languages.svg
-          git diff --staged --quiet || (git commit -m "chore: update language stats" && git push)
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: update language stats"
+            git pull --rebase
+            git push
+          fi
