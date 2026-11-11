@@ -10,7 +10,7 @@
 <text class="mono mut" x="40" y="46" font-size="13" letter-spacing="1.5">SIRMITRICKS / README.md</text>
 <text class="mono mut" x="860" y="46" font-size="13" letter-spacing="1.5" text-anchor="end">№ 159184251</text>
 <line class="ln" x1="40" y1="64" x2="860" y2="64"/>
-<text class="serif ink" x="38" y="172" font-size="92" letter-spacing="-3">Snr<tspan class="clay" font-style="italic">Lancelot</tspan></text>
+<text class="serif ink" x="38" y="172" font-size="92" letter-spacing="-3">N<tspan class="clay" font-style="italic">ita</tspan></text>
 <text class="mono mut" x="42" y="214" font-size="15">веб и десктоп — от базы данных до интерфейса</text>
 <line class="ln" x1="40" y1="246" x2="860" y2="246"/>
 <text class="mono ink" x="40" y="273" font-size="13" letter-spacing="1">React <tspan class="clay">/</tspan> TypeScript <tspan class="clay">/</tspan> Node <tspan class="clay">/</tspan> PostgreSQL <tspan class="clay">/</tspan> Electron</text>
