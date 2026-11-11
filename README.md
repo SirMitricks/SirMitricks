@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="SnrLancelot — веб и десктоп">
+<img src="assets/header.svg" width="100%" alt="Nita — веб и десктоп">
 
 <br>
 
